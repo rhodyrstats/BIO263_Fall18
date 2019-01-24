@@ -23,8 +23,7 @@ Topic <- c("Intro and Shiny","Shiny Basics", "Design Basics","Effective Outreach
              "Draft presentations","Class work time","Class work time",
            "Class work time","Class work time",
              "Presentations","Presentations")
-Speaker <- c("Instructors","Dekker", "Ferria","Menezes", 
-              "Carubin","Instructors",
+Speaker <- c("Instructors","Dekker", "Ferria","Carubin","Instructors","Menezes", 
              "Students","Instructors","Instructors",
              "Instructors","Instructors",
            "Students", "Students")
