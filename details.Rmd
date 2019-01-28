@@ -42,7 +42,7 @@ Basic and advanced R:
 * [R For Data Science](https://r4ds.had.co.nz/)
 
 Data Viz:  
-* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)  
+* [Wilke: Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)  
 * [How to pick your visualization / chart](https://www.data-to-viz.com/)  
 * [More references](https://datavizf18.classes.andrewheiss.com/reference/)
 
