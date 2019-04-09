@@ -23,11 +23,11 @@ Date <- c("1/24", "1/31", "2/7",
 Topic <- c("Intro and Shiny","Shiny Basics","Class work time",
            "Design Basics","Effective Outreach","Class work time", 
            "Class work time", "Graphic Design","Draft presentations",
-           "Class work time","Class work time",
+           "Class work time","Publishing",
              "Presentations","Presentations")
 Speaker <- c("Instructors","Dekker","Instructors",
              "Ferria","Menezes", "Instructors", 
-             "Instructors","Carubin","Students",
+             "Instructors","Instructors","Students",
              "Instructors","Instructors",
            "Students", "Students")
 Reading_Assignment <- c("","DC Shiny Basics Ch. 1", "Your Layout or Code", 

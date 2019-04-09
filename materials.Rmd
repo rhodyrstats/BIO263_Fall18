@@ -21,3 +21,6 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Suggestions for colors and contrasts](https://missgeeky.com/2017/08/09/the-art-of-slide-design-principle-2/)  
 * [OpenVisConf 2017 Videos](http://www.openvisconf.com/2017/#videos)  
 * [Menezes slides]("Menezes_Understanding_Audience.pdf")
+
+**Publishing**  
+* [Shinyapps.io user guide](https://docs.rstudio.com/shinyapps.io/)
