@@ -1,0 +1,22 @@
+---
+title: "Student Shiny Apps"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(kableExtra)
+```
+
+
+[Comparing spatial and temporal variation between relative sea-level reconstructions](https://bhalavik.shinyapps.io/app5/): Byron Halavik  
+[Groundwater and related variables in Southern Rhode Island](https://jeeban.shinyapps.io/Groundwater/): Jeeban Panthi  
+[Wakatobi Park fish catch reports](https://shiny.celsrs.uri.edu/Indonesian_Fishing/): Melati Kaye  
+[Narragansett Bay oysters](https://rjstevick.shinyapps.io/nbay_shinyapp/): Rebecca Stevick
+
+
