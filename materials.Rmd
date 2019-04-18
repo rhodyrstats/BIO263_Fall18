@@ -23,4 +23,5 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Menezes slides]("Menezes_Understanding_Audience.pdf")
 
 **Publishing**  
-* [Shinyapps.io user guide](https://docs.rstudio.com/shinyapps.io/)
+* [Shinyapps.io user guide](https://docs.rstudio.com/shinyapps.io/)  
+* [Git and Github lesson](http://swcarpentry.github.io/git-novice/)
