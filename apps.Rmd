@@ -17,3 +17,4 @@ output:
 [Metabolic models with PSAMM](https://shiny.celsrs.uri.edu/psamm/): Ke Zhang  
 [Disease cases](https://swantan.shinyapps.io/bio594_shinyclass/): Swan Tan  
 [Species diversification rates](https://eren.shinyapps.io/treesim/): Eren Ada
+[Oyster populations](https://erinroberts.shinyapps.io/oyster_resequencing_shiny/): Erin Roberts
