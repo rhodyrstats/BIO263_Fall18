@@ -14,7 +14,7 @@ output:
 [Groundwater and related variables in Southern Rhode Island](https://jeeban.shinyapps.io/Groundwater/): Jeeban Panthi  
 [Wakatobi Park fish catch reports](https://shiny.celsrs.uri.edu/Indonesian_Fishing/): Melati Kaye  
 [Narragansett Bay oysters](https://rjstevick.shinyapps.io/nbay_shinyapp/): Rebecca Stevick  
-[Metabolic models with PSAMM](https://shiny.celsrs.uri.edu/psamm/): Ke Zhang  
-[Disease cases](https://swantan.shinyapps.io/bio594_shinyclass/): Swan Tan  
+[Metabolic models with PSAMM](https://shiny.celsrs.uri.edu/psamm/): Ke Zhang - [see example results](Shinyapp-output-example-Ke.pdf)  
+[CDC National Notifiable Diseases Reporting](https://swantan.shinyapps.io/bio594_shinyclass/): Swan Tan  
 [Species diversification rates](https://eren.shinyapps.io/treesim/): Eren Ada
 [Oyster populations](https://erinroberts.shinyapps.io/oyster_resequencing_shiny/): Erin Roberts

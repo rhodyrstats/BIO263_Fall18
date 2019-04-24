@@ -13,3 +13,6 @@ navbar:
       href: schedule.html
     - text: "Materials"
       href: materials.html
+    - text: "Apps"
+      href: apps.html
+
