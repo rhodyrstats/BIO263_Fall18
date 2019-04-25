@@ -15,14 +15,18 @@ output:
 [Groundwater and related variables in Southern Rhode Island](https://jeeban.shinyapps.io/Groundwater/): Jeeban Panthi  
 
 [Wakatobi Park fish catch reports](https://shiny.celsrs.uri.edu/Indonesian_Fishing/): Melati Kaye  
+This app is a reference “dashboard” for reef fish distribution based on catch reports for one coastal district in Eastern Indonesia. Resource managers can use it as a rough guide for reefs with high fishing pressure or species abundance.
 
 [Narragansett Bay oysters](https://rjstevick.shinyapps.io/nbay_shinyapp/): Rebecca Stevick  
 
 [Metabolic models with PSAMM](https://shiny.celsrs.uri.edu/psamm/): Ke Zhang - [see example results](Shinyapp-output-example-Ke.pdf)  
+This app is used to analyze metabolic model more conveniently, it allows users to run mass/charge/formula balance check, flux balance analysis, flux variability analysis and search specific reaction or compound in the model. These functions are depend on PSAMM, an open source software designed for curation and analysis of metabolic model.
 
 [CDC National Notifiable Diseases Reporting](https://swantan.shinyapps.io/bio594_shinyclass/): Swan Tan  
+This app facilitates user to visualize the distribution of all notifiable infectious diseases in the United States 2017. User could view the distribution by selecting different interested variables such as type of infection, region and disease type. This app enable user to interact the data real time by clicking the pop-up icon on the map and it will load more information like plot and an extended table with links to each disease.
 
 [Phylogenetic Tree Simulation Tool](https://eren.shinyapps.io/treesim/): Eren Ada  
+This Shiny App allows users to simulate and download set of phylogenetic trees with given speciation and extinction rate. Also, it provides lineage-through-time plot tool to visualize the accumulation of species in a phylogenetic tree.
 
 [Oyster populations](https://erinroberts.shinyapps.io/oyster_resequencing_shiny/): Erin Roberts
 
